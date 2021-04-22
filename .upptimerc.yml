@@ -7,11 +7,11 @@ sites:
     url: https://www.google.com
   - name: Ayrshare App
     url: https://app.ayrshare.com
-  - name: Wikipedia
+  - name: Wikipedia 2
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
+  - name: Test Broken Site 1
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
