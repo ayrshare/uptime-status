@@ -2,7 +2,7 @@
   {
     "name": "Ayrshare App",
     "url": "https://app.ayrshare.com",
-    "icon": "https://favicons.githubusercontent.com/app.ayrshare.com",
+    "icon": "https://app.ayrshare.com/ayrshare-purple-icon.jpg",
     "slug": "ayrshare-app",
     "status": "up",
     "uptime": "100.00%",
@@ -20,7 +20,7 @@
   {
     "name": "Ayrshare Website",
     "url": "https://www.ayrshare.com",
-    "icon": "https://favicons.githubusercontent.com/www.ayrshare.com",
+    "icon": "https://app.ayrshare.com/icon.png",
     "slug": "ayrshare-website",
     "status": "up",
     "uptime": "100.00%",
@@ -28,17 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 196,
-    "timeWeek": 196,
-    "timeMonth": 196,
-    "timeYear": 196,
+    "time": 185,
+    "timeDay": 185,
+    "timeWeek": 185,
+    "timeMonth": 185,
+    "timeYear": 185,
     "dailyMinutesDown": {}
   },
   {
     "name": "/user (API endpoint)",
     "url": "https://app.ayrshare.com/api/user",
-    "icon": "https://favicons.githubusercontent.com/app.ayrshare.com",
+    "icon": "https://app.ayrshare.com/rest-api.png",
     "slug": "user-api-endpoint",
     "status": "up",
     "uptime": "100.00%",
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 352,
-    "timeWeek": 352,
-    "timeMonth": 352,
-    "timeYear": 352,
+    "time": 449,
+    "timeDay": 449,
+    "timeWeek": 449,
+    "timeMonth": 449,
+    "timeYear": 449,
     "dailyMinutesDown": {}
   }
 ]
