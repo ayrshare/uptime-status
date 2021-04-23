@@ -7,6 +7,11 @@ sites:
     url: https://app.ayrshare.com
   - name: Ayrshare Website
     url: https://www.ayrshare.com
+  - name: /user (API endpoint)
+    url: https://app.ayrshare.com/api/user
+    headers:
+      - "Authorization: Bearer $API_KEY"
+      - "Content-Type: application/json"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,8 +19,8 @@ status-website:
   baseUrl: /uptime-status # where "repo" is your repository name
   name: Ayrshare Status
   logoUrl: https://app.ayrshare.com/ayrshare-purple-icon.jpg
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Ayrshare** - an API for social posting and management."
+  introMessage: The uptime status of [Ayrshare's](https://www.ayrshare.com) website, app. and APIs. Login to the [Ayrshare Dashboard](https://app.ayrshare.com).
   navbar:
     - title: Status
       href: /
