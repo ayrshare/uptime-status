@@ -5,10 +5,13 @@ repo: uptime-status # The name of this repository
 sites:
   - name: Ayrshare App
     url: https://app.ayrshare.com
+    icon: https://app.ayrshare.com/ayrshare-purple-icon.jpg
   - name: Ayrshare Website
     url: https://www.ayrshare.com
+    icon: https://app.ayrshare.com/icon.png
   - name: /user (API endpoint)
     url: https://app.ayrshare.com/api/user
+    icon: https://app.ayrshare.com/rest-api.png
     headers:
       - "Authorization: Bearer $API_KEY"
       - "Content-Type: application/json"
