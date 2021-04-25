@@ -31,14 +31,6 @@ sites:
       - "Authorization: Bearer $API_KEY"
       - "Content-Type: application/json"
     body: '{ "post": "Check on me.", "platforms": ["facebook"] }'
-  - name: /post Instagram API Endpoint
-    url: https://app.ayrshare.com/api/post/random
-    icon: https://app.ayrshare.com/rest-api.png
-    method: POST
-    headers:
-      - "Authorization: Bearer $API_KEY"
-      - "Content-Type: application/json"
-    body: '{ "post": "Check on me.", "platforms": ["instagram"], "media_urls": ["https://images.ayrshare.com/imgs/ghost-small.jpg"] }'
   - name: /post LinkedIn API Endpoint
     url: https://app.ayrshare.com/api/post/random
     icon: https://app.ayrshare.com/rest-api.png
