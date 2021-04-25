@@ -27,9 +27,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /uptime-status # where "repo" is your repository name
+  # baseUrl: /uptime-status # where "repo" is your repository name
   name: Ayrshare Status
   logoUrl: https://app.ayrshare.com/ayrshare-purple-icon.jpg
+  cname: status.ayrshare.com
   introTitle: "**Ayrshare** - an API for social posting and management."
   introMessage: The uptime status of [Ayrshare's](https://www.ayrshare.com) website, app. and APIs. Login to the [Ayrshare Dashboard](https://app.ayrshare.com).
   navbar:
