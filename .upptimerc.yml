@@ -38,7 +38,7 @@ sites:
     headers:
       - "Authorization: Bearer $API_KEY"
       - "Content-Type: application/json"
-    body: '{ "post": "Check on me.", "platforms": ["instagram"], "mediaUrls": ["https://images.ayrshare.com/imgs/ghost-small.jpg"] }'
+    body: '{ "post": "Check on me.", "platforms": ["instagram"], "media_urls": ["https://images.ayrshare.com/imgs/ghost-small.jpg"] }'
   - name: /post LinkedIn API Endpoint
     url: https://app.ayrshare.com/api/post/random
     icon: https://app.ayrshare.com/rest-api.png
