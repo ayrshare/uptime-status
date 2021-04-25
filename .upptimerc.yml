@@ -9,12 +9,20 @@ sites:
   - name: Ayrshare Website
     url: https://www.ayrshare.com
     icon: https://app.ayrshare.com/icon.png
-  - name: /user (API endpoint)
+  - name: /user API endpoint
     url: https://app.ayrshare.com/api/user
     icon: https://app.ayrshare.com/rest-api.png
     headers:
       - "Authorization: Bearer $API_KEY"
       - "Content-Type: application/json"
+  - name: /post Twitter API Endpoint
+    url: https://app.ayrshare.com/api/post/random
+    icon: https://app.ayrshare.com/rest-api.png
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_KEY"
+      - "Content-Type: application/json"
+    body: '{ "post": "Check on me.", "platforms": ["twitter"] }'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
