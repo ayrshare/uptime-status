@@ -1,5 +1,5 @@
 # Change these first
-owner: gbourne1 # Your GitHub organization or username, where this repository lives
+owner: ayrshare # Your GitHub organization or username, where this repository lives
 repo: uptime-status # The name of this repository
 
 sites:
