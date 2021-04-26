@@ -72,8 +72,8 @@ status-website:
       async: true
       data-domain: "ayrshare.com"
   navbar:
-    - title: Status
-      href: /
+    - title: Ayrshare Home
+      href: https://www.ayrshare.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
