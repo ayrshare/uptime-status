@@ -74,6 +74,8 @@ status-website:
   navbar:
     - title: Ayrshare Home
       href: https://www.ayrshare.com
+    - title: API Docs
+      href: https://docs.ayrshare.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
