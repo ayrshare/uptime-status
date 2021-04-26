@@ -54,6 +54,7 @@ status-website:
   # baseUrl: /uptime-status # where "repo" is your repository name
   name: Ayrshare Status
   logoUrl: https://app.ayrshare.com/ayrshare-purple-icon.jpg
+  favicon: https://app.ayrshare.com/icon.png
   cname: status.ayrshare.com
   introTitle: "**Ayrshare** - an API for social posting and management."
   introMessage: The uptime status of [Ayrshare's](https://www.ayrshare.com) website, app. and APIs. Login to the [Ayrshare Dashboard](https://app.ayrshare.com).
