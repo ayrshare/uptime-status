@@ -58,6 +58,11 @@ status-website:
   cname: status.ayrshare.com
   introTitle: "**Ayrshare** - an API for social posting and management."
   introMessage: The uptime status of [Ayrshare's](https://www.ayrshare.com) website, app. and APIs. Login to the [Ayrshare Dashboard](https://app.ayrshare.com).
+  scripts:
+    - src: https://plausible.io/js/plausible.js
+      defer: true
+      async: true
+      data-domain: "ayrshare.com"
   navbar:
     - title: Status
       href: /
