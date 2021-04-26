@@ -15,7 +15,7 @@ sites:
     headers:
       - "Authorization: Bearer $API_KEY"
       - "Content-Type: application/json"
-  - name: /post Twitter API Endpoint
+  - name: /post Twitter API Post
     url: https://app.ayrshare.com/api/post/random
     icon: https://app.ayrshare.com/rest-api.png
     method: POST
@@ -23,7 +23,7 @@ sites:
       - "Authorization: Bearer $API_KEY"
       - "Content-Type: application/json"
     body: '{ "post": "Check on me.", "platforms": ["twitter"] }'
-  - name: /post Facebook API Endpoint
+  - name: /post Facebook API Post
     url: https://app.ayrshare.com/api/post/random
     icon: https://app.ayrshare.com/rest-api.png
     method: POST
@@ -31,7 +31,15 @@ sites:
       - "Authorization: Bearer $API_KEY"
       - "Content-Type: application/json"
     body: '{ "post": "Check on me.", "platforms": ["facebook"] }'
-  - name: /post LinkedIn API Endpoint
+  - name: /post Instagram API Post
+    url: https://app.ayrshare.com/api/post/random
+    icon: https://app.ayrshare.com/rest-api.png
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_KEY"
+      - "Content-Type: application/json"
+    body: '{ "post": "Check on me.", "platforms": ["instagram"], "unsplash": { "type": "random", "size": "small", "options": { "orientation": "squarish" } }'
+  - name: /post LinkedIn API Post
     url: https://app.ayrshare.com/api/post/random
     icon: https://app.ayrshare.com/rest-api.png
     method: POST
@@ -39,7 +47,7 @@ sites:
       - "Authorization: Bearer $API_KEY"
       - "Content-Type: application/json"
     body: '{ "post": "Check on me.", "platforms": ["linkedin"] }'
-  - name: /post Telegram API Endpoint
+  - name: /post Telegram API Post
     url: https://app.ayrshare.com/api/post/random
     icon: https://app.ayrshare.com/rest-api.png
     method: POST
