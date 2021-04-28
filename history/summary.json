@@ -76,19 +76,19 @@
     "url": "https://app.ayrshare.com/api/post/random",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-instagram-api-post",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 6565,
-    "timeDay": 6484,
-    "timeWeek": 6565,
-    "timeMonth": 6565,
-    "timeYear": 6565,
+    "status": "up",
+    "uptime": "97.43%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "97.43%",
+    "time": 6684,
+    "timeDay": 6860,
+    "timeWeek": 6684,
+    "timeMonth": 6684,
+    "timeYear": 6684,
     "dailyMinutesDown": {
-      "2021-04-28": 0
+      "2021-04-28": 60
     }
   },
   {
