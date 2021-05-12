@@ -40,18 +40,20 @@
     "url": "https://app.ayrshare.com/api/post/random",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-twitter-api-post",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 935,
-    "timeDay": 990,
+    "timeDay": 963,
     "timeWeek": 933,
     "timeMonth": 935,
     "timeYear": 935,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-12": 0
+    }
   },
   {
     "name": "/post Facebook API Post",
