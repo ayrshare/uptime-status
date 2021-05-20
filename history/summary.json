@@ -22,36 +22,40 @@
     "url": "https://app.ayrshare.com/api/user",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "user-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 460,
-    "timeDay": 320,
-    "timeWeek": 334,
-    "timeMonth": 460,
-    "timeYear": 460,
-    "dailyMinutesDown": {}
+    "time": 454,
+    "timeDay": 228,
+    "timeWeek": 309,
+    "timeMonth": 454,
+    "timeYear": 454,
+    "dailyMinutesDown": {
+      "2021-05-20": 0
+    }
   },
   {
     "name": "/post Twitter API Post",
     "url": "https://app.ayrshare.com/api/post/random",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-twitter-api-post",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 943,
-    "timeDay": 824,
-    "timeWeek": 915,
-    "timeMonth": 943,
-    "timeYear": 943,
-    "dailyMinutesDown": {}
+    "time": 923,
+    "timeDay": 447,
+    "timeWeek": 810,
+    "timeMonth": 923,
+    "timeYear": 923,
+    "dailyMinutesDown": {
+      "2021-05-20": 0
+    }
   },
   {
     "name": "/post Facebook API Post",
@@ -76,18 +80,20 @@
     "url": "https://app.ayrshare.com/api/post/random",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-linked-in-api-post",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1102,
-    "timeDay": 987,
-    "timeWeek": 1049,
-    "timeMonth": 1102,
-    "timeYear": 1102,
-    "dailyMinutesDown": {}
+    "time": 1077,
+    "timeDay": 528,
+    "timeWeek": 927,
+    "timeMonth": 1077,
+    "timeYear": 1077,
+    "dailyMinutesDown": {
+      "2021-05-20": 0
+    }
   },
   {
     "name": "/post Telegram API Post",
