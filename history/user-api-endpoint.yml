@@ -1,7 +1,7 @@
 url: https://app.ayrshare.com/api/user
-status: down
-code: 500
-responseTime: 58
-lastUpdated: 2021-06-08T10:28:39.038Z
+status: up
+code: 200
+responseTime: 305
+lastUpdated: 2021-06-08T12:34:09.451Z
 startTime: Fri Apr 23 2021 15:28:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
