@@ -5,19 +5,17 @@
     "icon": "https://app.ayrshare.com/icon.png",
     "slug": "ayrshare-dashboard",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.80%",
-    "time": 217,
-    "timeDay": 172,
-    "timeWeek": 159,
-    "timeMonth": 170,
-    "timeYear": 217,
-    "dailyMinutesDown": {
-      "2021-06-08": 126
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 218,
+    "timeDay": 233,
+    "timeWeek": 170,
+    "timeMonth": 172,
+    "timeYear": 218,
+    "dailyMinutesDown": {}
   },
   {
     "name": "/user API endpoint",
@@ -25,19 +23,17 @@
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "user-api-endpoint",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.82%",
-    "time": 432,
-    "timeDay": 342,
-    "timeWeek": 302,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 431,
+    "timeDay": 301,
+    "timeWeek": 309,
     "timeMonth": 377,
-    "timeYear": 432,
-    "dailyMinutesDown": {
-      "2021-06-08": 126
-    }
+    "timeYear": 431,
+    "dailyMinutesDown": {}
   },
   {
     "name": "/post Twitter API Post",
@@ -45,19 +41,17 @@
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-twitter-api-post",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.81%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 953,
-    "timeDay": 1136,
-    "timeWeek": 1001,
-    "timeMonth": 970,
+    "timeDay": 963,
+    "timeWeek": 963,
+    "timeMonth": 969,
     "timeYear": 953,
-    "dailyMinutesDown": {
-      "2021-06-08": 125
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/post Facebook API Post",
@@ -65,19 +59,17 @@
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-facebook-api-post",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.81%",
-    "time": 2301,
-    "timeDay": 2254,
-    "timeWeek": 2607,
-    "timeMonth": 2253,
-    "timeYear": 2301,
-    "dailyMinutesDown": {
-      "2021-06-08": 125
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2294,
+    "timeDay": 1838,
+    "timeWeek": 2402,
+    "timeMonth": 2254,
+    "timeYear": 2294,
+    "dailyMinutesDown": {}
   },
   {
     "name": "/post LinkedIn API Post",
@@ -90,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1033,
-    "timeDay": 988,
-    "timeWeek": 1032,
-    "timeMonth": 960,
-    "timeYear": 1033,
+    "time": 1032,
+    "timeDay": 1001,
+    "timeWeek": 1014,
+    "timeMonth": 953,
+    "timeYear": 1032,
     "dailyMinutesDown": {}
   },
   {
@@ -108,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1087,
-    "timeDay": 1208,
-    "timeWeek": 1008,
-    "timeMonth": 1049,
-    "timeYear": 1087,
+    "time": 1086,
+    "timeDay": 976,
+    "timeWeek": 1011,
+    "timeMonth": 1050,
+    "timeYear": 1086,
     "dailyMinutesDown": {}
   }
 ]
