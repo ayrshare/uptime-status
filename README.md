@@ -1,4 +1,4 @@
-# [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Ayrshare Live Status](https://status.ayrshare.com): <!--live status--> **🟩 All systems operational**
 
 This repository contains the uptime monitor and status page for [Ayrshare - APIs for Social Media Posting and Scheduling](https://www.ayrshare.com), powered by [Upptime](https://github.com/upptime/upptime).
 
