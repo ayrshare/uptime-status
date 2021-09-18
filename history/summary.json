@@ -22,36 +22,40 @@
     "url": "https://app.ayrshare.com/api/user",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "user-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 471,
-    "timeDay": 624,
-    "timeWeek": 518,
-    "timeMonth": 445,
-    "timeYear": 471,
-    "dailyMinutesDown": {}
+    "time": 469,
+    "timeDay": 332,
+    "timeWeek": 458,
+    "timeMonth": 433,
+    "timeYear": 469,
+    "dailyMinutesDown": {
+      "2021-09-18": 0
+    }
   },
   {
     "name": "/post Twitter API Post",
     "url": "https://app.ayrshare.com/api/post/random",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-twitter-api-post",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1018,
-    "timeDay": 1183,
-    "timeWeek": 1051,
-    "timeMonth": 1150,
-    "timeYear": 1018,
-    "dailyMinutesDown": {}
+    "time": 1012,
+    "timeDay": 607,
+    "timeWeek": 923,
+    "timeMonth": 1116,
+    "timeYear": 1012,
+    "dailyMinutesDown": {
+      "2021-09-18": 0
+    }
   },
   {
     "name": "/post Facebook API Post",
