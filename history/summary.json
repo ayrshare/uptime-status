@@ -4,18 +4,20 @@
     "url": "https://app.ayrshare.com",
     "icon": "https://app.ayrshare.com/icon.png",
     "slug": "ayrshare-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 168,
-    "timeWeek": 240,
-    "timeMonth": 193,
+    "timeDay": 151,
+    "timeWeek": 226,
+    "timeMonth": 192,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-18": 0
+    }
   },
   {
     "name": "/user API endpoint",
