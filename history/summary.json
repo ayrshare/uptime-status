@@ -22,18 +22,20 @@
     "url": "https://app.ayrshare.com/api/user",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "user-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 469,
-    "timeDay": 367,
-    "timeWeek": 469,
-    "timeMonth": 432,
-    "timeYear": 469,
-    "dailyMinutesDown": {}
+    "time": 467,
+    "timeDay": 302,
+    "timeWeek": 430,
+    "timeMonth": 421,
+    "timeYear": 467,
+    "dailyMinutesDown": {
+      "2021-09-19": 0
+    }
   },
   {
     "name": "/post Twitter API Post",
