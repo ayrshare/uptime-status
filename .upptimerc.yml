@@ -57,9 +57,9 @@ status-website:
   introMessage: The uptime status of [Ayrshare's](https://www.ayrshare.com) website, app, and APIs. Login to the [Ayrshare Dashboard](https://app.ayrshare.com).
   metaTags:
     - name: "description"
-      content: "Ayrshare Social APIs for platforms, CMS, and agencies. Get the latest API uptime status"
+      content: "Ayrshare Social Media APIs for platforms, CMS, and agencies. Get the current API uptime status"
     - name: "keywords"
-      content: "Social Media, API, Facebook, Instagram, Twitter, Social Network API"
+      content: "Social Media API, API, Facebook, Instagram, Twitter, Social Network API"
   scripts:
     - src: https://plausible.io/js/plausible.js
       defer: true
