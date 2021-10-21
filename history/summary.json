@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 144,
-    "timeWeek": 218,
-    "timeMonth": 241,
-    "timeYear": 216,
+    "time": 217,
+    "timeDay": 232,
+    "timeWeek": 239,
+    "timeMonth": 245,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 471,
-    "timeDay": 449,
-    "timeWeek": 433,
-    "timeMonth": 489,
+    "timeDay": 428,
+    "timeWeek": 453,
+    "timeMonth": 493,
     "timeYear": 471,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1053,
-    "timeDay": 1263,
-    "timeWeek": 1140,
-    "timeMonth": 1277,
-    "timeYear": 1053,
+    "time": 1052,
+    "timeDay": 1077,
+    "timeWeek": 1155,
+    "timeMonth": 1273,
+    "timeYear": 1052,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.86%",
-    "time": 2344,
-    "timeDay": 2890,
-    "timeWeek": 2371,
-    "timeMonth": 2890,
-    "timeYear": 2344,
+    "time": 2346,
+    "timeDay": 2689,
+    "timeWeek": 2470,
+    "timeMonth": 2887,
+    "timeYear": 2346,
     "dailyMinutesDown": {
       "2021-10-04": 357
     }
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1134,
-    "timeDay": 1336,
-    "timeWeek": 1214,
-    "timeMonth": 1706,
+    "timeDay": 1273,
+    "timeWeek": 1224,
+    "timeMonth": 1711,
     "timeYear": 1134,
     "dailyMinutesDown": {}
   },
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1023,
-    "timeDay": 1173,
-    "timeWeek": 1063,
-    "timeMonth": 1166,
-    "timeYear": 1023,
+    "time": 1024,
+    "timeDay": 1056,
+    "timeWeek": 1075,
+    "timeMonth": 1163,
+    "timeYear": 1024,
     "dailyMinutesDown": {}
   }
 ]
