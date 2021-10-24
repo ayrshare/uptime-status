@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 340,
-    "timeWeek": 235,
-    "timeMonth": 256,
-    "timeYear": 217,
+    "time": 218,
+    "timeDay": 297,
+    "timeWeek": 254,
+    "timeMonth": 260,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 652,
-    "timeWeek": 494,
-    "timeMonth": 505,
-    "timeYear": 472,
+    "time": 471,
+    "timeDay": 424,
+    "timeWeek": 495,
+    "timeMonth": 509,
+    "timeYear": 471,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1061,
-    "timeDay": 1444,
-    "timeWeek": 1400,
-    "timeMonth": 1330,
+    "timeDay": 1057,
+    "timeWeek": 1316,
+    "timeMonth": 1332,
     "timeYear": 1061,
     "dailyMinutesDown": {}
   },
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.86%",
-    "time": 2345,
-    "timeDay": 2427,
-    "timeWeek": 2447,
-    "timeMonth": 2894,
-    "timeYear": 2345,
+    "time": 2352,
+    "timeDay": 3841,
+    "timeWeek": 2681,
+    "timeMonth": 2948,
+    "timeYear": 2352,
     "dailyMinutesDown": {
       "2021-10-04": 357
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1137,
-    "timeDay": 1511,
-    "timeWeek": 1297,
-    "timeMonth": 1716,
-    "timeYear": 1137,
+    "time": 1138,
+    "timeDay": 1265,
+    "timeWeek": 1316,
+    "timeMonth": 1722,
+    "timeYear": 1138,
     "dailyMinutesDown": {}
   },
   {
@@ -103,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1024,
-    "timeDay": 1144,
-    "timeWeek": 1110,
-    "timeMonth": 1169,
+    "timeDay": 940,
+    "timeWeek": 1087,
+    "timeMonth": 1166,
     "timeYear": 1024,
     "dailyMinutesDown": {}
   }
