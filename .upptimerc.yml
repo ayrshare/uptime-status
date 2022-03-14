@@ -59,7 +59,7 @@ status-website:
     - name: "description"
       content: "Ayrshare Social Media APIs for platforms, CMS, and agencies. Get the current API uptime status"
     - name: "keywords"
-      content: "Social Media API, API, Facebook, Instagram, Twitter, Social Network API"
+      content: "Social Media API, API, Facebook, Instagram, Twitter, Telegram, Social Network API"
   navbar:
     - title: Ayrshare Home
       href: https://www.ayrshare.com
