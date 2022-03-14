@@ -49,7 +49,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /uptime-status # where "repo" is your repository name
-  name: Ayrshare Status
+  name: Ayrshare Social Media API Status
   logoUrl: https://app.ayrshare.com/ayrshare-purple-icon.jpg
   favicon: https://app.ayrshare.com/icon.png
   cname: status.ayrshare.com
@@ -60,11 +60,6 @@ status-website:
       content: "Ayrshare Social Media APIs for platforms, CMS, and agencies. Get the current API uptime status"
     - name: "keywords"
       content: "Social Media API, API, Facebook, Instagram, Twitter, Social Network API"
-  scripts:
-    - src: https://plausible.io/js/plausible.js
-      defer: true
-      async: true
-      data-domain: "status.ayrshare.com"
   navbar:
     - title: Ayrshare Home
       href: https://www.ayrshare.com
