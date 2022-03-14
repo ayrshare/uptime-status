@@ -62,7 +62,7 @@ status-website:
   favicon: https://app.ayrshare.com/icon.png
   cname: status.ayrshare.com
   introTitle: "**Ayrshare** - an API for social posting and management."
-  introMessage: The uptime status of [Ayrshare's](https://www.ayrshare.com) website, app, and APIs. Login to the [Ayrshare Dashboard](https://app.ayrshare.com).
+  introMessage: The uptime status of [Ayrshare's](https://www.ayrshare.com) website, app, and APIs. Login to the [Ayrshare Dashboard](https://app.ayrshare.com). Please see the [Ayrshare Status Update](https://docs.ayrshare.com/additional-info/status-update) page for details.
   metaTags:
     - name: "description"
       content: "Ayrshare Social Media APIs for platforms, CMS, and agencies. Get the current API uptime status"
