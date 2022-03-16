@@ -20,14 +20,14 @@ sites:
       - "Authorization: Bearer $API_KEY"
       - "Content-Type: application/json"
     body: '{ "post": "Check on me.", "platforms": ["facebook"] }'
-  - name: /post Instagram API Post
-    url: https://app.ayrshare.com/api/post/random
-    icon: https://app.ayrshare.com/api-rest-blue.png
-    method: POST
-    headers:
-      - "Authorization: Bearer $API_KEY"
-      - "Content-Type: application/json"
-    body: '{ "post": "Check on me.", "platforms": ["instagram"], "unsplash": { "type": "random", "size": "small", "options": { "orientation": "squarish" } } }'
+  #- name: /post Instagram API Post
+   # url: https://app.ayrshare.com/api/post/random
+   # icon: https://app.ayrshare.com/api-rest-blue.png
+   # method: POST
+   # headers:
+   #   - "Authorization: Bearer $API_KEY"
+   #   - "Content-Type: application/json"
+   # body: '{ "post": "Check on me.", "platforms": ["instagram"], "unsplash": { "type": "random", "size": "small", "options": { "orientation": "squarish" } } }'
   - name: /post LinkedIn API Post
     url: https://app.ayrshare.com/api/post/random
     icon: https://app.ayrshare.com/api-rest-blue.png
