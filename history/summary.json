@@ -76,18 +76,20 @@
     "url": "https://app.ayrshare.com/api/post/random",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-telegram-api-post",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1045,
-    "timeDay": 1083,
-    "timeWeek": 1100,
-    "timeMonth": 1110,
+    "timeDay": 1011,
+    "timeWeek": 1080,
+    "timeMonth": 1105,
     "timeYear": 1045,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-16": 1
+    }
   },
   {
     "name": "/post Twitter API Post",
