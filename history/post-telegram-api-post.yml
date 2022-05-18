@@ -1,7 +1,7 @@
 url: https://app.ayrshare.com/api/post/random
-status: up
-code: 200
-responseTime: 1321
-lastUpdated: 2022-05-17T23:16:27.243Z
+status: down
+code: 500
+responseTime: 78
+lastUpdated: 2022-05-18T18:13:30.235Z
 startTime: Mon Apr 26 2021 14:59:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
