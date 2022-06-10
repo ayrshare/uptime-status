@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 724,
-    "timeWeek": 226,
-    "timeMonth": 223,
+    "timeDay": 121,
+    "timeWeek": 220,
+    "timeMonth": 221,
     "timeYear": 241,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 484,
-    "timeWeek": 483,
-    "timeMonth": 495,
-    "timeYear": 523,
+    "time": 507,
+    "timeDay": 530,
+    "timeWeek": 450,
+    "timeMonth": 501,
+    "timeYear": 522,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2631,
-    "timeDay": 2587,
-    "timeWeek": 3070,
-    "timeMonth": 2932,
-    "timeYear": 2689,
+    "timeDay": 2560,
+    "timeWeek": 3039,
+    "timeMonth": 2846,
+    "timeYear": 2686,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1148,
-    "timeDay": 1217,
+    "timeDay": 1243,
     "timeWeek": 1153,
-    "timeMonth": 1113,
-    "timeYear": 1167,
+    "timeMonth": 1122,
+    "timeYear": 1168,
     "dailyMinutesDown": {}
   },
   {
@@ -77,20 +77,17 @@
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-telegram-api-post",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.98%",
-    "time": 1042,
-    "timeDay": 980,
-    "timeWeek": 1048,
-    "timeMonth": 967,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1041,
+    "timeDay": 1009,
+    "timeWeek": 1009,
+    "timeMonth": 973,
     "timeYear": 1034,
-    "dailyMinutesDown": {
-      "2022-05-18": 52,
-      "2022-04-16": 51
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/post Twitter API Post",
@@ -98,18 +95,16 @@
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-twitter-api-post",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1090,
-    "timeDay": 1003,
-    "timeWeek": 902,
-    "timeMonth": 921,
-    "timeYear": 1115,
-    "dailyMinutesDown": {
-      "2022-05-18": 52
-    }
+    "timeDay": 898,
+    "timeWeek": 867,
+    "timeMonth": 922,
+    "timeYear": 1114,
+    "dailyMinutesDown": {}
   }
 ]
