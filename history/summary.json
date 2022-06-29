@@ -4,19 +4,19 @@
     "url": "https://app.ayrshare.com",
     "icon": "https://app.ayrshare.com/icon.png",
     "slug": "ayrshare-dashboard",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 235,
-    "timeDay": 178,
+    "timeDay": 174,
     "timeWeek": 165,
     "timeMonth": 179,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 58
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.ayrshare.com/api/user",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "user-api-endpoint",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 505,
-    "timeDay": 213,
-    "timeWeek": 537,
-    "timeMonth": 536,
-    "timeYear": 512,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
+    "time": 506,
+    "timeDay": 475,
+    "timeWeek": 589,
+    "timeMonth": 550,
+    "timeYear": 514,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 58
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://app.ayrshare.com/api/post/random",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-facebook-api-post",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 2637,
-    "timeDay": 1390,
-    "timeWeek": 2511,
-    "timeMonth": 2855,
-    "timeYear": 2721,
+    "timeDay": 1742,
+    "timeWeek": 2504,
+    "timeMonth": 2843,
+    "timeYear": 2720,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 58
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://app.ayrshare.com/api/post/random",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-linked-in-api-post",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 1148,
-    "timeDay": 604,
-    "timeWeek": 1045,
-    "timeMonth": 1143,
+    "timeDay": 908,
+    "timeWeek": 1097,
+    "timeMonth": 1154,
     "timeYear": 1179,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 58
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://app.ayrshare.com/api/post/random",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-telegram-api-post",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1039,
-    "timeDay": 565,
-    "timeWeek": 884,
-    "timeMonth": 998,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
+    "time": 1040,
+    "timeDay": 797,
+    "timeWeek": 926,
+    "timeMonth": 1006,
     "timeYear": 1036,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 58
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://app.ayrshare.com/api/post/random",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-twitter-api-post",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 1080,
-    "timeDay": 444,
-    "timeWeek": 791,
-    "timeMonth": 878,
+    "timeDay": 724,
+    "timeWeek": 846,
+    "timeMonth": 890,
     "timeYear": 1101,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 58
     }
   }
 ]
