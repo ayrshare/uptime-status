@@ -11,9 +11,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 235,
-    "timeDay": 174,
-    "timeWeek": 165,
-    "timeMonth": 179,
+    "timeDay": 123,
+    "timeWeek": 161,
+    "timeMonth": 176,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2022-06-29": 58
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 506,
-    "timeDay": 475,
-    "timeWeek": 589,
-    "timeMonth": 550,
-    "timeYear": 514,
+    "time": 510,
+    "timeDay": 1113,
+    "timeWeek": 793,
+    "timeMonth": 604,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2022-06-29": 58
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 2637,
-    "timeDay": 1742,
-    "timeWeek": 2504,
-    "timeMonth": 2843,
-    "timeYear": 2720,
+    "time": 2641,
+    "timeDay": 2280,
+    "timeWeek": 2592,
+    "timeMonth": 2910,
+    "timeYear": 2727,
     "dailyMinutesDown": {
       "2022-06-29": 58
     }
@@ -71,10 +71,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 1148,
-    "timeDay": 908,
-    "timeWeek": 1097,
-    "timeMonth": 1154,
-    "timeYear": 1179,
+    "timeDay": 856,
+    "timeWeek": 1084,
+    "timeMonth": 1147,
+    "timeYear": 1180,
     "dailyMinutesDown": {
       "2022-06-29": 58
     }
@@ -91,10 +91,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 1040,
-    "timeDay": 797,
-    "timeWeek": 926,
-    "timeMonth": 1006,
-    "timeYear": 1036,
+    "timeDay": 770,
+    "timeWeek": 931,
+    "timeMonth": 1003,
+    "timeYear": 1037,
     "dailyMinutesDown": {
       "2022-06-29": 58
     }
@@ -111,10 +111,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 1080,
-    "timeDay": 724,
-    "timeWeek": 846,
-    "timeMonth": 890,
-    "timeYear": 1101,
+    "timeDay": 748,
+    "timeWeek": 857,
+    "timeMonth": 882,
+    "timeYear": 1102,
     "dailyMinutesDown": {
       "2022-06-29": 58
     }
