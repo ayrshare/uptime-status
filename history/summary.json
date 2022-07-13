@@ -58,18 +58,20 @@
     "url": "https://app.ayrshare.com/api/post/random",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-linked-in-api-post",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1143,
-    "timeDay": 1134,
-    "timeWeek": 1164,
-    "timeMonth": 1077,
-    "timeYear": 1178,
-    "dailyMinutesDown": {}
+    "timeDay": 1023,
+    "timeWeek": 1133,
+    "timeMonth": 1073,
+    "timeYear": 1177,
+    "dailyMinutesDown": {
+      "2022-07-13": 0
+    }
   },
   {
     "name": "/post Telegram API Post",
