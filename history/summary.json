@@ -58,19 +58,19 @@
     "url": "https://app.ayrshare.com/api/post/random",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-linked-in-api-post",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 1143,
-    "timeDay": 1023,
-    "timeWeek": 1133,
-    "timeMonth": 1073,
+    "timeDay": 1092,
+    "timeWeek": 1143,
+    "timeMonth": 1077,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 33
     }
   },
   {
