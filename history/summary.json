@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 276,
-    "timeWeek": 257,
-    "timeMonth": 226,
-    "timeYear": 234,
+    "timeDay": 202,
+    "timeWeek": 268,
+    "timeMonth": 228,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 364,
-    "timeWeek": 450,
-    "timeMonth": 523,
+    "time": 509,
+    "timeDay": 321,
+    "timeWeek": 410,
+    "timeMonth": 520,
     "timeYear": 516,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2628,
-    "timeDay": 3382,
-    "timeWeek": 2899,
-    "timeMonth": 2612,
-    "timeYear": 2749,
+    "time": 2631,
+    "timeDay": 3211,
+    "timeWeek": 3031,
+    "timeMonth": 2626,
+    "timeYear": 2751,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 1146,
-    "timeDay": 1125,
-    "timeWeek": 1151,
-    "timeMonth": 1183,
-    "timeYear": 1194,
+    "time": 1145,
+    "timeDay": 937,
+    "timeWeek": 1101,
+    "timeMonth": 1178,
+    "timeYear": 1195,
     "dailyMinutesDown": {
       "2022-07-13": 33
     }
@@ -85,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1030,
-    "timeDay": 990,
-    "timeWeek": 981,
-    "timeMonth": 982,
-    "timeYear": 1029,
+    "timeDay": 961,
+    "timeWeek": 967,
+    "timeMonth": 980,
+    "timeYear": 1030,
     "dailyMinutesDown": {}
   },
   {
@@ -103,10 +103,10 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 1065,
-    "timeDay": 1022,
-    "timeWeek": 867,
-    "timeMonth": 888,
-    "timeYear": 1082,
+    "timeDay": 787,
+    "timeWeek": 828,
+    "timeMonth": 887,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2022-07-14": 81
     }
