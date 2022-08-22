@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 121,
-    "timeWeek": 146,
-    "timeMonth": 182,
+    "timeDay": 235,
+    "timeWeek": 160,
+    "timeMonth": 185,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -23,19 +23,17 @@
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "user-api-endpoint",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "95.89%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 510,
-    "timeDay": 529,
-    "timeWeek": 531,
+    "timeDay": 532,
+    "timeWeek": 508,
     "timeMonth": 479,
     "timeYear": 521,
-    "dailyMinutesDown": {
-      "2022-08-21": 59
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/post Facebook API Post",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2654,
-    "timeDay": 2772,
-    "timeWeek": 3127,
-    "timeMonth": 2913,
-    "timeYear": 2791,
+    "time": 2655,
+    "timeDay": 2223,
+    "timeWeek": 3122,
+    "timeMonth": 2862,
+    "timeYear": 2788,
     "dailyMinutesDown": {}
   },
   {
@@ -61,20 +59,17 @@
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-linked-in-api-post",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "95.99%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1145,
-    "timeDay": 1099,
-    "timeWeek": 1112,
-    "timeMonth": 1133,
+    "timeDay": 1122,
+    "timeWeek": 1124,
+    "timeMonth": 1126,
     "timeYear": 1194,
-    "dailyMinutesDown": {
-      "2022-08-21": 58,
-      "2022-07-13": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/post Telegram API Post",
@@ -82,19 +77,17 @@
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-telegram-api-post",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.98%",
-    "time": 1030,
-    "timeDay": 3753,
-    "timeWeek": 1431,
-    "timeMonth": 1070,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1029,
+    "timeDay": 856,
+    "timeWeek": 1376,
+    "timeMonth": 1062,
     "timeYear": 1040,
-    "dailyMinutesDown": {
-      "2022-08-10": 121
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/post Twitter API Post",
@@ -102,18 +95,16 @@
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-twitter-api-post",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1063,
-    "timeDay": 858,
-    "timeWeek": 873,
-    "timeMonth": 905,
-    "timeYear": 1079,
-    "dailyMinutesDown": {
-      "2022-07-14": 81
-    }
+    "uptimeYear": "100.00%",
+    "time": 1062,
+    "timeDay": 682,
+    "timeWeek": 813,
+    "timeMonth": 893,
+    "timeYear": 1078,
+    "dailyMinutesDown": {}
   }
 ]
