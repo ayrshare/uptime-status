@@ -22,18 +22,20 @@
     "url": "https://app.ayrshare.com/api/user",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "user-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
+    "time": 487,
     "timeDay": 431,
     "timeWeek": 502,
     "timeMonth": 471,
     "timeYear": 471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-29": 0
+    }
   },
   {
     "name": "/post Facebook API Post",
