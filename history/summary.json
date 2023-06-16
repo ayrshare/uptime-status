@@ -40,18 +40,20 @@
     "url": "https://app.ayrshare.com/api/post/random",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "post-facebook-api-post",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3119,
-    "timeDay": 2904,
-    "timeWeek": 2539,
-    "timeMonth": 3064,
-    "timeYear": 3139,
-    "dailyMinutesDown": {}
+    "time": 3115,
+    "timeDay": 2035,
+    "timeWeek": 2368,
+    "timeMonth": 3005,
+    "timeYear": 3134,
+    "dailyMinutesDown": {
+      "2023-06-16": 0
+    }
   },
   {
     "name": "/post LinkedIn API Post",
@@ -101,7 +103,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1006,
-    "timeDay": 1425,
+    "timeDay": 1145,
     "timeWeek": 1276,
     "timeMonth": 1128,
     "timeYear": 984,
