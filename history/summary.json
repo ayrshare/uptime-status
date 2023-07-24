@@ -22,19 +22,19 @@
     "url": "https://app.ayrshare.com/api/user",
     "icon": "https://app.ayrshare.com/api-rest-blue.png",
     "slug": "user-api-endpoint",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 489,
-    "timeWeek": 560,
-    "timeMonth": 569,
-    "timeYear": 473,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "70.91%",
+    "uptimeWeek": "95.84%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.92%",
+    "time": 507,
+    "timeDay": 5030,
+    "timeWeek": 1686,
+    "timeMonth": 859,
+    "timeYear": 498,
     "dailyMinutesDown": {
-      "2023-07-24": 0
+      "2023-07-24": 419
     }
   },
   {
