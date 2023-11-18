@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 127,
-    "timeWeek": 113,
-    "timeMonth": 126,
+    "timeDay": 170,
+    "timeWeek": 116,
+    "timeMonth": 128,
     "timeYear": 125,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 516,
-    "timeDay": 363,
-    "timeWeek": 438,
-    "timeMonth": 493,
-    "timeYear": 520,
+    "time": 515,
+    "timeDay": 677,
+    "timeWeek": 470,
+    "timeMonth": 500,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2023-07-24": 419
     }
@@ -49,10 +49,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.93%",
     "time": 3030,
-    "timeDay": 2344,
-    "timeWeek": 2976,
-    "timeMonth": 2807,
-    "timeYear": 2955,
+    "timeDay": 2963,
+    "timeWeek": 3054,
+    "timeMonth": 2800,
+    "timeYear": 2954,
     "dailyMinutesDown": {
       "2023-10-18": 58,
       "2023-06-17": 35,
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1334,
-    "timeDay": 1317,
-    "timeWeek": 1174,
-    "timeMonth": 1115,
+    "timeDay": 1135,
+    "timeWeek": 1182,
+    "timeMonth": 1120,
     "timeYear": 1335,
     "dailyMinutesDown": {
       "2023-07-12": 143,
@@ -92,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1107,
-    "timeDay": 1068,
-    "timeWeek": 1077,
-    "timeMonth": 1017,
-    "timeYear": 1120,
+    "timeDay": 963,
+    "timeWeek": 1078,
+    "timeMonth": 1018,
+    "timeYear": 1119,
     "dailyMinutesDown": {
       "2023-09-09": 55
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 1048,
-    "timeDay": 1002,
-    "timeWeek": 1117,
-    "timeMonth": 1175,
-    "timeYear": 1075,
+    "time": 1049,
+    "timeDay": 1146,
+    "timeWeek": 1140,
+    "timeMonth": 1187,
+    "timeYear": 1074,
     "dailyMinutesDown": {
       "2023-10-24": 56
     }
