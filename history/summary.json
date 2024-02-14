@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 131,
-    "timeWeek": 102,
-    "timeMonth": 116,
+    "timeDay": 78,
+    "timeWeek": 103,
+    "timeMonth": 115,
     "timeYear": 117,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 530,
-    "timeDay": 741,
-    "timeWeek": 643,
-    "timeMonth": 736,
-    "timeYear": 572,
+    "timeDay": 679,
+    "timeWeek": 672,
+    "timeMonth": 741,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2023-12-25": 118,
       "2023-07-24": 419
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 3146,
-    "timeDay": 4514,
-    "timeWeek": 6305,
-    "timeMonth": 4549,
-    "timeYear": 3036,
+    "time": 3151,
+    "timeDay": 4779,
+    "timeWeek": 6264,
+    "timeMonth": 4614,
+    "timeYear": 3041,
     "dailyMinutesDown": {
       "2023-10-18": 58,
       "2023-06-17": 35,
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1340,
-    "timeDay": 1274,
-    "timeWeek": 1550,
-    "timeMonth": 1409,
-    "timeYear": 1351,
+    "timeDay": 1153,
+    "timeWeek": 1489,
+    "timeMonth": 1403,
+    "timeYear": 1355,
     "dailyMinutesDown": {
       "2023-07-12": 143,
       "2023-07-11": 53
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1136,
-    "timeDay": 1320,
-    "timeWeek": 1442,
-    "timeMonth": 1381,
-    "timeYear": 1117,
+    "timeDay": 1331,
+    "timeWeek": 1455,
+    "timeMonth": 1385,
+    "timeYear": 1118,
     "dailyMinutesDown": {
       "2023-09-09": 55
     }
@@ -113,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1089,
-    "timeDay": 1081,
-    "timeWeek": 1237,
-    "timeMonth": 1266,
+    "timeDay": 1076,
+    "timeWeek": 1229,
+    "timeMonth": 1268,
     "timeYear": 1119,
     "dailyMinutesDown": {
       "2023-10-24": 56
