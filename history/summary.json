@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 131,
-    "timeWeek": 121,
-    "timeMonth": 125,
+    "timeDay": 167,
+    "timeWeek": 129,
+    "timeMonth": 127,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 606,
-    "timeDay": 431,
-    "timeWeek": 490,
-    "timeMonth": 532,
-    "timeYear": 602,
+    "timeDay": 725,
+    "timeWeek": 522,
+    "timeMonth": 540,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2023-12-25": 118
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3842,
-    "timeDay": 5733,
-    "timeWeek": 5021,
-    "timeMonth": 5302,
-    "timeYear": 4187,
+    "time": 3849,
+    "timeDay": 5515,
+    "timeWeek": 5132,
+    "timeMonth": 5303,
+    "timeYear": 4194,
     "dailyMinutesDown": {
       "2023-10-18": 58
     }
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1420,
-    "timeDay": 1339,
-    "timeWeek": 1226,
-    "timeMonth": 1247,
-    "timeYear": 1423,
+    "timeDay": 1294,
+    "timeWeek": 1224,
+    "timeMonth": 1254,
+    "timeYear": 1424,
     "dailyMinutesDown": {
       "2024-05-23": 33,
       "2024-05-22": 50,
@@ -90,10 +90,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1193,
-    "timeDay": 1159,
-    "timeWeek": 1192,
-    "timeMonth": 1169,
+    "time": 1194,
+    "timeDay": 1070,
+    "timeWeek": 1179,
+    "timeMonth": 1159,
     "timeYear": 1224,
     "dailyMinutesDown": {
       "2024-05-27": 61,
@@ -112,10 +112,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1244,
-    "timeDay": 1296,
-    "timeWeek": 1145,
-    "timeMonth": 1065,
-    "timeYear": 1296,
+    "timeDay": 850,
+    "timeWeek": 1106,
+    "timeMonth": 1061,
+    "timeYear": 1286,
     "dailyMinutesDown": {
       "2023-10-24": 56
     }
