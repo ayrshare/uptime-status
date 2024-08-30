@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 98,
-    "timeWeek": 122,
-    "timeMonth": 128,
+    "timeDay": 148,
+    "timeWeek": 121,
+    "timeMonth": 129,
     "timeYear": 123,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 606,
-    "timeDay": 502,
-    "timeWeek": 475,
-    "timeMonth": 529,
-    "timeYear": 593,
+    "timeDay": 599,
+    "timeWeek": 487,
+    "timeMonth": 530,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2023-12-25": 118
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 4011,
-    "timeDay": 5705,
-    "timeWeek": 5397,
-    "timeMonth": 5630,
-    "timeYear": 4415,
+    "time": 4015,
+    "timeDay": 5086,
+    "timeWeek": 5370,
+    "timeMonth": 5650,
+    "timeYear": 4423,
     "dailyMinutesDown": {
       "2023-10-18": 58
     }
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1412,
-    "timeDay": 1296,
-    "timeWeek": 1354,
-    "timeMonth": 1336,
-    "timeYear": 1396,
+    "timeDay": 1130,
+    "timeWeek": 1332,
+    "timeMonth": 1333,
+    "timeYear": 1397,
     "dailyMinutesDown": {
       "2024-05-23": 33,
       "2024-05-22": 50,
@@ -91,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1189,
-    "timeDay": 1091,
-    "timeWeek": 961,
-    "timeMonth": 1110,
-    "timeYear": 1226,
+    "timeDay": 1285,
+    "timeWeek": 982,
+    "timeMonth": 1111,
+    "timeYear": 1227,
     "dailyMinutesDown": {
       "2024-05-27": 61,
       "2023-09-09": 55
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1255,
-    "timeDay": 2185,
-    "timeWeek": 1246,
+    "time": 1256,
+    "timeDay": 1597,
+    "timeWeek": 1279,
     "timeMonth": 1220,
-    "timeYear": 1282,
+    "timeYear": 1284,
     "dailyMinutesDown": {
       "2023-10-24": 56
     }
