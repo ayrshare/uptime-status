@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 148,
-    "timeWeek": 150,
-    "timeMonth": 140,
+    "timeDay": 92,
+    "timeWeek": 143,
+    "timeMonth": 139,
     "timeYear": 126,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 609,
-    "timeDay": 472,
-    "timeWeek": 527,
-    "timeMonth": 532,
-    "timeYear": 594,
+    "timeDay": 459,
+    "timeWeek": 516,
+    "timeMonth": 526,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2023-12-25": 118
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 4099,
-    "timeDay": 7600,
-    "timeWeek": 5903,
-    "timeMonth": 5469,
-    "timeYear": 4571,
+    "time": 4100,
+    "timeDay": 4281,
+    "timeWeek": 5766,
+    "timeMonth": 5472,
+    "timeYear": 4576,
     "dailyMinutesDown": {
       "2023-10-18": 58
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1406,
-    "timeDay": 2509,
-    "timeWeek": 1675,
-    "timeMonth": 1451,
+    "timeDay": 1403,
+    "timeWeek": 1678,
+    "timeMonth": 1443,
     "timeYear": 1416,
     "dailyMinutesDown": {
       "2024-05-23": 33,
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1197,
-    "timeDay": 1800,
-    "timeWeek": 1464,
-    "timeMonth": 1250,
-    "timeYear": 1246,
+    "time": 1199,
+    "timeDay": 1460,
+    "timeWeek": 1471,
+    "timeMonth": 1261,
+    "timeYear": 1247,
     "dailyMinutesDown": {
       "2024-05-27": 61
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1273,
-    "timeDay": 1559,
-    "timeWeek": 1371,
-    "timeMonth": 1356,
-    "timeYear": 1310,
+    "time": 1274,
+    "timeDay": 1556,
+    "timeWeek": 1416,
+    "timeMonth": 1372,
+    "timeYear": 1311,
     "dailyMinutesDown": {
       "2023-10-24": 56
     }
