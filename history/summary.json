@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 109,
-    "timeWeek": 108,
-    "timeMonth": 131,
+    "timeDay": 71,
+    "timeWeek": 101,
+    "timeMonth": 128,
     "timeYear": 127,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 605,
-    "timeDay": 556,
-    "timeWeek": 512,
-    "timeMonth": 526,
+    "timeDay": 439,
+    "timeWeek": 507,
+    "timeMonth": 525,
     "timeYear": 591,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4285,
-    "timeDay": 2906,
-    "timeWeek": 3362,
-    "timeMonth": 4648,
-    "timeYear": 4844,
+    "time": 4289,
+    "timeDay": 3791,
+    "timeWeek": 3538,
+    "timeMonth": 4611,
+    "timeYear": 4848,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 1454,
-    "timeDay": 2229,
-    "timeWeek": 1736,
-    "timeMonth": 1762,
-    "timeYear": 1510,
+    "time": 1456,
+    "timeDay": 2128,
+    "timeWeek": 1672,
+    "timeMonth": 1769,
+    "timeYear": 1514,
     "dailyMinutesDown": {
       "2024-10-20": 61
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1235,
-    "timeDay": 1126,
-    "timeWeek": 1225,
-    "timeMonth": 1413,
-    "timeYear": 1304,
+    "time": 1236,
+    "timeDay": 1193,
+    "timeWeek": 1235,
+    "timeMonth": 1383,
+    "timeYear": 1303,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 1349,
-    "timeDay": 1228,
-    "timeWeek": 1581,
-    "timeMonth": 1883,
-    "timeYear": 1412,
+    "time": 1352,
+    "timeDay": 1911,
+    "timeWeek": 1553,
+    "timeMonth": 1873,
+    "timeYear": 1415,
     "dailyMinutesDown": {
       "2024-10-12": 58
     }
