@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 157,
-    "timeWeek": 120,
-    "timeMonth": 128,
+    "timeDay": 105,
+    "timeWeek": 121,
+    "timeMonth": 127,
     "timeYear": 127,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 605,
-    "timeDay": 537,
-    "timeWeek": 482,
+    "timeDay": 480,
+    "timeWeek": 489,
     "timeMonth": 519,
     "timeYear": 592,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4297,
-    "timeDay": 4960,
-    "timeWeek": 3718,
-    "timeMonth": 4510,
-    "timeYear": 4857,
+    "time": 4300,
+    "timeDay": 3538,
+    "timeWeek": 3609,
+    "timeMonth": 4409,
+    "timeYear": 4859,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 1460,
-    "timeDay": 1864,
-    "timeWeek": 1929,
-    "timeMonth": 1748,
-    "timeYear": 1521,
+    "time": 1461,
+    "timeDay": 1368,
+    "timeWeek": 1889,
+    "timeMonth": 1711,
+    "timeYear": 1522,
     "dailyMinutesDown": {
       "2024-10-20": 61
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1237,
-    "timeDay": 1185,
-    "timeWeek": 1230,
-    "timeMonth": 1316,
-    "timeYear": 1305,
+    "time": 1238,
+    "timeDay": 1091,
+    "timeWeek": 1201,
+    "timeMonth": 1297,
+    "timeYear": 1304,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 1355,
-    "timeDay": 1512,
-    "timeWeek": 1515,
-    "timeMonth": 1818,
-    "timeYear": 1418,
+    "time": 1357,
+    "timeDay": 1789,
+    "timeWeek": 1481,
+    "timeMonth": 1810,
+    "timeYear": 1421,
     "dailyMinutesDown": {
       "2024-10-12": 58
     }
