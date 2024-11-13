@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 142,
-    "timeWeek": 125,
-    "timeMonth": 120,
+    "timeDay": 104,
+    "timeWeek": 122,
+    "timeMonth": 121,
     "timeYear": 126,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 603,
-    "timeDay": 590,
-    "timeWeek": 526,
-    "timeMonth": 507,
+    "timeDay": 577,
+    "timeWeek": 551,
+    "timeMonth": 511,
     "timeYear": 592,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4328,
-    "timeDay": 4591,
-    "timeWeek": 4438,
-    "timeMonth": 3993,
-    "timeYear": 4890,
+    "time": 4330,
+    "timeDay": 4208,
+    "timeWeek": 4431,
+    "timeMonth": 3968,
+    "timeYear": 4893,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 1471,
-    "timeDay": 1350,
-    "timeWeek": 1696,
-    "timeMonth": 1629,
-    "timeYear": 1539,
+    "timeDay": 1558,
+    "timeWeek": 1698,
+    "timeMonth": 1641,
+    "timeYear": 1540,
     "dailyMinutesDown": {
       "2024-10-20": 61
     }
@@ -85,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1241,
-    "timeDay": 1361,
-    "timeWeek": 1251,
-    "timeMonth": 1196,
-    "timeYear": 1311,
+    "timeDay": 1493,
+    "timeWeek": 1276,
+    "timeMonth": 1207,
+    "timeYear": 1313,
     "dailyMinutesDown": {}
   },
   {
@@ -100,13 +100,13 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1383,
-    "timeDay": 2008,
-    "timeWeek": 2549,
-    "timeMonth": 1936,
-    "timeYear": 1451,
+    "time": 1387,
+    "timeDay": 2784,
+    "timeWeek": 2711,
+    "timeMonth": 1894,
+    "timeYear": 1456,
     "dailyMinutesDown": {
       "2024-10-12": 58
     }
